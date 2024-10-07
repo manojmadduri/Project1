@@ -1,2 +1,2 @@
-# peoject1
+# project1
 Linorasoft website
